@@ -1,3 +1,3 @@
 development:
-  adapter: sqlite3
-  database: db/development.sqlite3
+  adapter: sqlite3    # Specifies the database adapter to be used for the development environment
+  database: db/development.sqlite3    # Specifies the path and name of the SQLite database file for the development environment
